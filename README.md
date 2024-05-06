@@ -1,4 +1,4 @@
-TITLE: Diabetes Prediction System with Supervised Machine Learning (Capstone Excellence Award)
+## Diabetes Prediction System with Supervised Machine Learning (Capstone Excellence Award)
 
 COURSE: WGU C964 - Computer Science Capstone
 
